@@ -19,7 +19,7 @@ class basic extends HTMLElement {
     //mounting
     const inner = `
         ${styleInLine}
-        <div class="componen col-12">
+        <div class="component col-12 ">
           <div class="img">
             <img src="${this.props.avatar}" alt=""/>
           </div>
