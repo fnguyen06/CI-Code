@@ -1247,10 +1247,8 @@ header .navbar ul li .sub-menu li:hover>a::before {
 }
 
 .mv-intro-user {
-  width: 200px;
   border: 1px solid #ebebeb;
-  margin: 20px auto;
-  padding: 30px;
+  margin: 40px auto;
 }
 
 .mv-intro-user span {
@@ -1262,7 +1260,7 @@ header .navbar ul li .sub-menu li:hover>a::before {
 .mv-intro-user span img {
   width: 120px;
   display: inline-block;
-  padding-top: 25%;
+  padding: 25px 0;
 }
 
 .mv-intro-list {
