@@ -1311,3 +1311,27 @@ header .navbar ul li .sub-menu li:hover>a::before {
   padding-right: 20px;
   float: left;
 }
+
+.favorites-slide li {
+  width: 335px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.cl-212529  {
+  color: #212529!important;
+}
+
+.pagination-inner .page-item .page-link {
+  border: none;
+  background: transparent;
+  color: #fff;
+  font-size: 20px;
+  padding: 8px 16px;
+}
+
+.active-link {
+  color: #fff!important;
+  background: #e50914!important;
+}
+
